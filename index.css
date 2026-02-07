@@ -28,6 +28,8 @@ body {
     z-index: 100;
     right: 0;
      margin: -900px;
+    transition: all 1s ease-out;
+
 
 }
 .icon{
@@ -383,3 +385,4 @@ overflow-x: hidden;
 }
 
 }
+
