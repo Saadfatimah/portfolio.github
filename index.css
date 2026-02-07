@@ -250,7 +250,7 @@ z-index: -1;
     z-index: -1x;
 }
 
-
+    
 .sec-5 h4,h3{
     text-align: center;
     
@@ -258,6 +258,8 @@ z-index: -1;
 .sec-5{
     width: 100%;
     height: 100%;
+    text-align: center;
+    justify-content: center;
 
 }
 
@@ -379,4 +381,5 @@ overflow-x: hidden;
 .sec-6{
     height: 100%;
 }
+
 }
